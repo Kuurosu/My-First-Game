@@ -10,4 +10,5 @@ public class FollowPlayer : MonoBehaviour
     {
         transform.position = player.position + offset;
     }
+    
 }
